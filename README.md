@@ -5,11 +5,9 @@
 ![image](https://user-images.githubusercontent.com/88676121/150969838-12616898-9e0f-4da4-8c1c-7168e7214eae.png)
 
 ## Table of contents
-- [Project Brief]()
-- [Data]()
-- [Process & Tools]()
-- [Visualization]() 
-- [Key Take Aways]()
+- [Project Brief](https://github.com/PolFerrandis/song-recommender#project-brief)
+- [Data](https://github.com/PolFerrandis/song-recommender#data)
+- [Process & Tools](https://github.com/PolFerrandis/song-recommender#process--tools)
 
 ## Project Brief
 **Scenario**: We will use webscrapping to build an intitial and MVP first music recommender. Once this is build we will upgrade it by adding different spotify playlist.
